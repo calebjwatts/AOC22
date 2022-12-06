@@ -1,2 +1,2 @@
 # AOC22
-My solutions in Python for [Advent of Code 2023](https://adventofcode.com)
+My solutions in Python for [Advent of Code 2022](https://adventofcode.com)
